@@ -1,0 +1,2 @@
+// The sidecar of weld.goose: ranged file reads (io.c).
+c_sources = ["io.c"];
